@@ -1,0 +1,29 @@
+remote_theme: just-the-docs/just-the-docs
+
+title: "Yi Xian Wiki"
+description: ""
+
+url: https://YiXianCardGame.github.io
+baseurl: ""
+
+# NOTE: search and anchors were true orignally
+search_enabled: false # true
+heading_anchors: true
+color_scheme: dark
+
+#############################################################################################
+
+callouts:
+  warning:
+    color: red
+  highlight:
+    color: yellow
+  new:
+    color: green
+  important:
+    color: blue
+  note:
+    color: purple
+  HELLO:
+    title: Hello Message
+    color: green
