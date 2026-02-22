@@ -9,7 +9,7 @@ nav_order: 2
 
 - Sects
     - [Cloud Spirit Sword Sect](sects/CloudSpiritSword.md)
-    - [Heptastar Pavillion](sects/Heptastar.md)
+    - [Heptastar Pavilion](sects/Heptastar.md)
     - [Five Elements Alliance](sects/FiveElements.md)
     - [Duan Xuan Sect](sects/DuanXuan.md)
 - Qi
