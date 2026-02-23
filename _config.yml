@@ -11,6 +11,9 @@ search_enabled: true
 heading_anchors: true
 color_scheme: dark
 
+# NOTE: Add favicon later
+favicon_ico: "/assets/images/favicon.ico"
+
 #############################################################################################
 
 callouts:
