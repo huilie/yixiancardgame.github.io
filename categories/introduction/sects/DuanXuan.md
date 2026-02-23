@@ -38,8 +38,14 @@ These archetypes can be played together and are piloted in different ways depend
   Recommended Build: Self Debuff
 
   Summary:\
-Survive until reaching Immortality Phase with a physique build, keeping cards that remove/prevent debuffs and building physique.\
-Then choose the Immortal Fate: "Meditation of Xuan". After this, you can begin to adjust your build by pairing "Meditation of Xuan", with a few anti-debuffing cards to remove some internal injury while keeping regeneration. Keep building physique, and then select the Immortal Fate "Wan Xuan Demon Breaking Palm" after reaching Incarnation Phase. Afterwards, spam "Wan Xuan Demon Breaking Palm" as much as you can with agility cards as it not only removes internal injury but also gives attack up, by an amount dependant on physique. This gives both offensive and defensive scaling as your attack up and regeneration stacks grow over time.
+  Survive until reaching Immortality Phase with a physique build, keeping cards that remove/prevent debuffs and building physique.\
+  Then choose the Immortal Fate: "Meditation of Xuan".
+
+  After this, you can begin to adjust your build by pairing "Meditation of Xuan", with a few anti-debuffing cards to remove some  internal injury while keeping regeneration.
+
+  Keep building physique, and then select the Immortal Fate "Wan Xuan Demon Breaking Palm" after reaching Incarnation Phase. 
+
+  Afterwards, spam "Wan Xuan Demon Breaking Palm" as much as you can with agility cards as it not only removes internal injury but also gives attack up, by an amount dependant on physique. This gives both offensive and defensive scaling as your attack up and regeneration stacks grow over time.
 
   Early game -\
   
