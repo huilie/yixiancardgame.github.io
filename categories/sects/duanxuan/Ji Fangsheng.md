@@ -47,9 +47,9 @@ hasChild: True
 
 ---
 
-## Recommended Build: Self Debuff
+## Recommended Build: Self Debuff + Physique
 
-Survive until reaching Immortality (purple) Phase with a physique build, keeping cards that remove/prevent debuffs and building physique.\
+Survive until reaching Immortality (purple) Phase with a physique build, keeping (but not yet using) cards that remove/prevent debuffs and building physique.\
 Then choose the Immortal Fate: "Meditation of Xuan".
 
 After this, you can begin to adjust your build by pairing "Meditation of Xuan", with a few anti-debuffing cards to remove some  internal injury while keeping regeneration.
