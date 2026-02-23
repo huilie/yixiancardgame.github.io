@@ -7,7 +7,7 @@ url: https://YiXianCardGame.github.io
 baseurl: ""
 
 # NOTE: search and anchors were true orignally
-search_enabled: false # true
+search_enabled: true
 heading_anchors: true
 color_scheme: dark
 
