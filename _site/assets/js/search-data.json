@@ -1,58 +1,100 @@
 {"0": {
     "doc": "Basics",
     "title": "Basics",
-    "content": ". | Sects . | Cloud Spirit Sword Sect | Heptastar Pavilion | Five Elements Alliance | Yuan Buan Sect | . | Qi | . ",
+    "content": "ATK &amp; DEF Qi Chase Continuous Consumption . ",
     "url": "/categories/introduction/Basics.html",
     
     "relUrl": "/categories/introduction/Basics.html"
   },"1": {
+    "doc": "Characters",
+    "title": "Characters",
+    "content": "There are 23 characters available in the game. Cloud Spirit Sword Sect: . | Mu Yifeng | Yan Xue | Li Chengyun | Long Yao | Lin Xiaoyue | Lu Jianxin | . Heptastar Pavilion: . | Tan Shuyan | Yan Chen | Yao Ling | Jiang Ximing | Wu ce | Feng Xu | . Five Elements Alliance: . | Wu Xingzhi | Du Lingyuan | Hua Qinrui | Mu Hu | Nangong Sheng | Qi Wangyou | . Duan Xuan Sect: . | Tu Kui | Ji Fangsheng | Xiao Bu | Ye Mingming | Li Man | . ",
+    "url": "/categories/Characters.html",
+    
+    "relUrl": "/categories/Characters.html"
+  },"2": {
     "doc": "Cloud Spirit Sword Sect",
     "title": "Cloud Spirit Sword Sect",
     "content": "1 . ",
-    "url": "/categories/introduction/sects/CloudSpiritSword.html",
+    "url": "/categories/sects/cloudspiritsword/Cloud%20Spirit%20Sword%20Sect.html",
     
-    "relUrl": "/categories/introduction/sects/CloudSpiritSword.html"
-  },"2": {
+    "relUrl": "/categories/sects/cloudspiritsword/Cloud%20Spirit%20Sword%20Sect.html"
+  },"3": {
     "doc": "Download",
     "title": "Download",
     "content": "The game can be downloaded on Steam (Windows, Mac, Linux) using this link. Support for mobile devices aren’t available yet. Please keep an eye out in the official Steam Community. ",
     "url": "/categories/introduction/Download.html",
     
     "relUrl": "/categories/introduction/Download.html"
-  },"3": {
+  },"4": {
     "doc": "Duan Xuan Sect",
     "title": "Duan Xuan Sect",
     "content": "Duan Xuan Sect splits into several unique archetypes. These include: . | Crash Fist | Force Gain | Physique | Self-Debuff | . These archetypes can be played together and are piloted in different ways depending on the character you are using. ",
-    "url": "/categories/introduction/sects/DuanXuan.html",
+    "url": "/categories/sects/duanxuan/Duan%20Xuan%20Sect.html",
     
-    "relUrl": "/categories/introduction/sects/DuanXuan.html"
-  },"4": {
+    "relUrl": "/categories/sects/duanxuan/Duan%20Xuan%20Sect.html"
+  },"5": {
     "doc": "Duan Xuan Sect",
     "title": "The Duan Xuan Sect consists of 5 characters.",
-    "content": ". | Xiao Bu . aaaa . | Tu Kui . aaaa . | Ye Mingming . aaaa . | Ji Fangsheng . Immortal Fates: . Recommended Build: Self Debuff . Summary: Survive until reaching Immortality Phase with a physique build, keeping cards that remove/prevent debuffs and building physique. Then choose the Immortal Fate: “Meditation of Xuan”. After this, you can begin to adjust your build by pairing “Meditation of Xuan”, with a few anti-debuffing cards to remove some internal injury while keeping regeneration. Keep building physique, and then select the Immortal Fate “Wan Xuan Demon Breaking Palm” after reaching Incarnation Phase. Afterwards, spam “Wan Xuan Demon Breaking Palm” as much as you can with agility cards as it not only removes internal injury but also gives attack up, by an amount dependant on physique. This gives both offensive and defensive scaling as your attack up and regeneration stacks grow over time. Early game -\\ . Mid game -\\ . Late game -\\ . | Li Man aaaa . | . ",
-    "url": "/categories/introduction/sects/DuanXuan.html#the-duan-xuan-sect-consists-of-5-characters",
+    "content": ". | Xiao Bu . | Tu Kui . | Ye Mingming . | Ji Fangsheng . | Li Man . | . ",
+    "url": "/categories/sects/duanxuan/Duan%20Xuan%20Sect.html#the-duan-xuan-sect-consists-of-5-characters",
     
-    "relUrl": "/categories/introduction/sects/DuanXuan.html#the-duan-xuan-sect-consists-of-5-characters"
-  },"5": {
+    "relUrl": "/categories/sects/duanxuan/Duan%20Xuan%20Sect.html#the-duan-xuan-sect-consists-of-5-characters"
+  },"6": {
+    "doc": "Feng Xu",
+    "title": "Feng Xu",
+    "content": " ",
+    "url": "/categories/sects/heptastar/Feng%20Xu.html",
+    
+    "relUrl": "/categories/sects/heptastar/Feng%20Xu.html"
+  },"7": {
     "doc": "Five Elements Alliance",
     "title": "Five Elements Alliance",
     "content": "3 . ",
-    "url": "/categories/introduction/sects/FiveElements.html",
+    "url": "/categories/sects/fiveelements/Five%20Elements%20Alliance.html",
     
-    "relUrl": "/categories/introduction/sects/FiveElements.html"
-  },"6": {
-    "doc": "Heptastar Pavillion",
-    "title": "Heptastar Pavillion",
+    "relUrl": "/categories/sects/fiveelements/Five%20Elements%20Alliance.html"
+  },"8": {
+    "doc": "Heptastar Pavilion",
+    "title": "Heptastar Pavilion",
     "content": "2 . ",
-    "url": "/categories/introduction/sects/Heptastar.html",
+    "url": "/categories/sects/heptastar/Heptastar%20Pavilion.html",
     
-    "relUrl": "/categories/introduction/sects/Heptastar.html"
-  },"7": {
+    "relUrl": "/categories/sects/heptastar/Heptastar%20Pavilion.html"
+  },"9": {
     "doc": "Introduction",
     "title": "Introduction",
-    "content": " ",
+    "content": ". | Download | . ",
     "url": "/categories/introduction/Introduction.html",
     
     "relUrl": "/categories/introduction/Introduction.html"
+  },"10": {
+    "doc": "Ji Fangsheng",
+    "title": "Ji Fangsheng",
+    "content": "| Sect: Duan Xuan Sect | | . | Birthdate: August 23rd, YiXian 30 at Hai Hour | . | Skill: Cultivation of Soul and Body | . | Principle: Xuan | . | Preference: Helping Others | . Immortal Fates: . | INITIAL IMMORTAL FATE | FOUNDATIONAL PHASE | VIRTUOSO PHASE | IMMORTALITY PHASE | INCARNATION PHASE | . | Zen Mind Forging Body | Mind-Body Resonance | Memory Fragment | Meditation of Xuan | Wan Xuan Demon Breaking Palm | . Recommended Build: Self Debuff . Summary: . Survive until reaching Immortality (purple) Phase with a physique build, keeping cards that remove/prevent debuffs and building physique. Then choose the Immortal Fate: “Meditation of Xuan”. After this, you can begin to adjust your build by pairing “Meditation of Xuan”, with a few anti-debuffing cards to remove some internal injury while keeping regeneration. Keep building physique, and then select the Immortal Fate “Wan Xuan Demon Breaking Palm” after reaching Incarnation Phase. Afterwards, spam “Wan Xuan Demon Breaking Palm” as much as you can with agility cards as it not only removes internal injury but also gives attack up, by an amount dependant on physique. This gives both offensive and defensive scaling as your attack up and regeneration stacks grow over time. ",
+    "url": "/categories/sects/duanxuan/Ji%20Fangsheng.html",
+    
+    "relUrl": "/categories/sects/duanxuan/Ji%20Fangsheng.html"
+  },"11": {
+    "doc": "Mu Yifeng",
+    "title": "Mu Yifeng",
+    "content": " ",
+    "url": "/categories/sects/cloudspiritsword/Mu%20Yifeng.html",
+    
+    "relUrl": "/categories/sects/cloudspiritsword/Mu%20Yifeng.html"
+  },"12": {
+    "doc": "Nangong Sheng",
+    "title": "Nangong Sheng",
+    "content": " ",
+    "url": "/categories/sects/fiveelements/Nangong%20Sheng.html",
+    
+    "relUrl": "/categories/sects/fiveelements/Nangong%20Sheng.html"
+  },"13": {
+    "doc": "Tu Kui",
+    "title": "Tu Kui",
+    "content": "asdf . ",
+    "url": "/categories/sects/duanxuan/Tu%20Kui.html",
+    
+    "relUrl": "/categories/sects/duanxuan/Tu%20Kui.html"
   }
 }

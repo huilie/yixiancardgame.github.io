@@ -1,6 +1,6 @@
 ---
 title: Five Elements Alliance
-parent: Basics
+parent: Characters
 hasChild: True
 nav_order: 3
 ---

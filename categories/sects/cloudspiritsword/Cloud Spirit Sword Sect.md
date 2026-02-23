@@ -1,6 +1,6 @@
 ---
 title: Cloud Spirit Sword Sect
-parent: Basics
+parent: Characters
 hasChild: True
 nav_order: 1
 ---
