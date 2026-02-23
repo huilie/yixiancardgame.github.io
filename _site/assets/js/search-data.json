@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Basics",
     "title": "Basics",
-    "content": "ATK &amp; DEF Qi Chase Continuous Consumption . ",
+    "content": "ATK ATK deals damage to opponents. If it says 3 ATK, then it will deal 3 damage. If it says 1~5 ATK, then it deals a random amount of damage between 1~5. DEF DEF ignores your opponent’s attack. If you gain 5 DEF, you will be able to ignore 5 ATK from your opponent. DEF decreases every turn. Qi Qi is often the ‘energy’ required to play the card. On the top left corner of the card, if it says a number on a blue flower-looking shape, that’s the ‘Qi required to play’. If it says 2 on the top left corner, you need at least 2 Qi in order to play the card. Qi can be obtained through other cards. In the card description, it will say something like “+2 Qi”. Chase Chase is a special action in the game where you skip your opponents turn, letting you act twice in a single turn. You cannot Chase a Chase card. Continuous ‘Continuous’ is a special condition given to a card. In the description, it should say ‘Continuous’ in pink. This means that the card’s effect will be triggered every turn. “Continuous X times”, means that the card’s effect will only be triggered for X times per battle. Consumption ‘Consumption’ is also a special condition given to a card. Same with ‘Continuous’, it will be in pink. This means that you can only play this card once per battle. NOTE: These are the basic terms that you should know (in general) before playing the game. These terms apply to every sect. There are other basic terms that is useful to know when playing different sects. Descriptions of sect-limited terms are in the sect’s page in this Wiki. ",
     "url": "/categories/introduction/Basics.html",
     
     "relUrl": "/categories/introduction/Basics.html"
@@ -27,74 +27,221 @@
     
     "relUrl": "/categories/introduction/Download.html"
   },"4": {
+    "doc": "Du Lingyuan",
+    "title": "Du Lingyuan",
+    "content": "TBA . ",
+    "url": "/categories/sects/fiveelements/Du%20Lingyuan.html",
+    
+    "relUrl": "/categories/sects/fiveelements/Du%20Lingyuan.html"
+  },"5": {
     "doc": "Duan Xuan Sect",
     "title": "Duan Xuan Sect",
     "content": "Duan Xuan Sect splits into several unique archetypes. These include: . | Crash Fist | Force Gain | Physique | Self-Debuff | . These archetypes can be played together and are piloted in different ways depending on the character you are using. ",
     "url": "/categories/sects/duanxuan/Duan%20Xuan%20Sect.html",
     
     "relUrl": "/categories/sects/duanxuan/Duan%20Xuan%20Sect.html"
-  },"5": {
+  },"6": {
     "doc": "Duan Xuan Sect",
     "title": "The Duan Xuan Sect consists of 5 characters.",
     "content": ". | Xiao Bu . | Tu Kui . | Ye Mingming . | Ji Fangsheng . | Li Man . | . ",
     "url": "/categories/sects/duanxuan/Duan%20Xuan%20Sect.html#the-duan-xuan-sect-consists-of-5-characters",
     
     "relUrl": "/categories/sects/duanxuan/Duan%20Xuan%20Sect.html#the-duan-xuan-sect-consists-of-5-characters"
-  },"6": {
+  },"7": {
     "doc": "Feng Xu",
     "title": "Feng Xu",
-    "content": " ",
+    "content": "TBA . ",
     "url": "/categories/sects/heptastar/Feng%20Xu.html",
     
     "relUrl": "/categories/sects/heptastar/Feng%20Xu.html"
-  },"7": {
+  },"8": {
     "doc": "Five Elements Alliance",
     "title": "Five Elements Alliance",
     "content": "3 . ",
     "url": "/categories/sects/fiveelements/Five%20Elements%20Alliance.html",
     
     "relUrl": "/categories/sects/fiveelements/Five%20Elements%20Alliance.html"
-  },"8": {
+  },"9": {
     "doc": "Heptastar Pavilion",
     "title": "Heptastar Pavilion",
     "content": "2 . ",
     "url": "/categories/sects/heptastar/Heptastar%20Pavilion.html",
     
     "relUrl": "/categories/sects/heptastar/Heptastar%20Pavilion.html"
-  },"9": {
+  },"10": {
+    "doc": "Hua Qinrui",
+    "title": "Hua Qinrui",
+    "content": "TBA . ",
+    "url": "/categories/sects/fiveelements/Hua%20Qinrui.html",
+    
+    "relUrl": "/categories/sects/fiveelements/Hua%20Qinrui.html"
+  },"11": {
     "doc": "Introduction",
     "title": "Introduction",
-    "content": ". | Download | . ",
+    "content": " ",
     "url": "/categories/introduction/Introduction.html",
     
     "relUrl": "/categories/introduction/Introduction.html"
-  },"10": {
+  },"12": {
     "doc": "Ji Fangsheng",
     "title": "Ji Fangsheng",
-    "content": "| Sect: Duan Xuan Sect | | . | Birthdate: August 23rd, YiXian 30 at Hai Hour | . | Skill: Cultivation of Soul and Body | . | Principle: Xuan | . | Preference: Helping Others | . Immortal Fates: . | INITIAL IMMORTAL FATE | FOUNDATIONAL PHASE | VIRTUOSO PHASE | IMMORTALITY PHASE | INCARNATION PHASE | . | Zen Mind Forging Body | Mind-Body Resonance | Memory Fragment | Meditation of Xuan | Wan Xuan Demon Breaking Palm | . Recommended Build: Self Debuff . Summary: . Survive until reaching Immortality (purple) Phase with a physique build, keeping cards that remove/prevent debuffs and building physique. Then choose the Immortal Fate: “Meditation of Xuan”. After this, you can begin to adjust your build by pairing “Meditation of Xuan”, with a few anti-debuffing cards to remove some internal injury while keeping regeneration. Keep building physique, and then select the Immortal Fate “Wan Xuan Demon Breaking Palm” after reaching Incarnation Phase. Afterwards, spam “Wan Xuan Demon Breaking Palm” as much as you can with agility cards as it not only removes internal injury but also gives attack up, by an amount dependant on physique. This gives both offensive and defensive scaling as your attack up and regeneration stacks grow over time. ",
+    "content": "| Sect: Duan Xuan Sect | | . | Birthdate: August 23rd, YiXian 30 at Hai Hour | . | Skill: Cultivation of Soul and Body | . | Principle: Xuan | . | Preference: Helping Others | . ",
     "url": "/categories/sects/duanxuan/Ji%20Fangsheng.html",
     
     "relUrl": "/categories/sects/duanxuan/Ji%20Fangsheng.html"
-  },"11": {
+  },"13": {
+    "doc": "Ji Fangsheng",
+    "title": "Immortal Fates:",
+    "content": "Initial Immortal Fate: Add 1 Physique at the start of each battle. Add 1 Physique Cap when winning a battle (up to 4 times). Mind Body Resonance: Whenever you gain 1 Physique in battle, you gain 1 DEF. Memory Fragment: A level 1 card in your hand can be synthesized with a level 2 card to upgrade to level 3. This method of upgrade costs 5 Physique, and is invalid if you don’t have enough Physique. (You must have both cards in your hand to upgrade by this method.) . Meditation of Xuan: Gain 1 ‘Meditation of Xuan’. Wan Xuan Demon Breaking Palm: Gain 1 ‘Wan Xuan Demon Breaking Palm’. ",
+    "url": "/categories/sects/duanxuan/Ji%20Fangsheng.html#immortal-fates",
+    
+    "relUrl": "/categories/sects/duanxuan/Ji%20Fangsheng.html#immortal-fates"
+  },"14": {
+    "doc": "Ji Fangsheng",
+    "title": "Recommended Build: Self Debuff",
+    "content": "Survive until reaching Immortality (purple) Phase with a physique build, keeping cards that remove/prevent debuffs and building physique. Then choose the Immortal Fate: “Meditation of Xuan”. After this, you can begin to adjust your build by pairing “Meditation of Xuan”, with a few anti-debuffing cards to remove some internal injury while keeping regeneration. Keep building physique, and then select the Immortal Fate “Wan Xuan Demon Breaking Palm” after reaching Incarnation Phase. Afterwards, spam “Wan Xuan Demon Breaking Palm” as much as you can with agility cards as it not only removes internal injury but also gives attack up, by an amount dependant on physique. This gives both offensive and defensive scaling as your attack up and regeneration stacks grow over time. Strong Against: Defensive Decks Weak Against: Sudden Damages (e.g. Dharma Spirit Sword) . ",
+    "url": "/categories/sects/duanxuan/Ji%20Fangsheng.html#recommended-build-self-debuff",
+    
+    "relUrl": "/categories/sects/duanxuan/Ji%20Fangsheng.html#recommended-build-self-debuff"
+  },"15": {
+    "doc": "Ji Fangsheng",
+    "title": "Portrait:",
+    "content": ". ",
+    "url": "/categories/sects/duanxuan/Ji%20Fangsheng.html#portrait",
+    
+    "relUrl": "/categories/sects/duanxuan/Ji%20Fangsheng.html#portrait"
+  },"16": {
+    "doc": "Jiang Ximing",
+    "title": "Jiang Ximing",
+    "content": "TBA . ",
+    "url": "/categories/sects/heptastar/Jiang%20Ximing.html",
+    
+    "relUrl": "/categories/sects/heptastar/Jiang%20Ximing.html"
+  },"17": {
+    "doc": "Li Chengyun",
+    "title": "Li Chengyun",
+    "content": "TBA . ",
+    "url": "/categories/sects/cloudspiritsword/Li%20Chengyun.html",
+    
+    "relUrl": "/categories/sects/cloudspiritsword/Li%20Chengyun.html"
+  },"18": {
+    "doc": "Li Man",
+    "title": "Li Man",
+    "content": "TBA . ",
+    "url": "/categories/sects/duanxuan/Li%20Man.html",
+    
+    "relUrl": "/categories/sects/duanxuan/Li%20Man.html"
+  },"19": {
+    "doc": "Lin Xiaoyue",
+    "title": "Lin Xiaoyue",
+    "content": "TBA . ",
+    "url": "/categories/sects/cloudspiritsword/Lin%20Xiaoyue.html",
+    
+    "relUrl": "/categories/sects/cloudspiritsword/Lin%20Xiaoyue.html"
+  },"20": {
+    "doc": "Long Yao",
+    "title": "Long Yao",
+    "content": "TBA . ",
+    "url": "/categories/sects/cloudspiritsword/Long%20Yao.html",
+    
+    "relUrl": "/categories/sects/cloudspiritsword/Long%20Yao.html"
+  },"21": {
+    "doc": "Lu Jianxin",
+    "title": "Lu Jianxin",
+    "content": "TBA . ",
+    "url": "/categories/sects/cloudspiritsword/Lu%20Jianxin.html",
+    
+    "relUrl": "/categories/sects/cloudspiritsword/Lu%20Jianxin.html"
+  },"22": {
+    "doc": "Mu Hu",
+    "title": "Mu Hu",
+    "content": "TBA . ",
+    "url": "/categories/sects/fiveelements/Mu%20Hu.html",
+    
+    "relUrl": "/categories/sects/fiveelements/Mu%20Hu.html"
+  },"23": {
     "doc": "Mu Yifeng",
     "title": "Mu Yifeng",
-    "content": " ",
+    "content": "TBA . ",
     "url": "/categories/sects/cloudspiritsword/Mu%20Yifeng.html",
     
     "relUrl": "/categories/sects/cloudspiritsword/Mu%20Yifeng.html"
-  },"12": {
+  },"24": {
     "doc": "Nangong Sheng",
     "title": "Nangong Sheng",
-    "content": " ",
+    "content": "TBA . ",
     "url": "/categories/sects/fiveelements/Nangong%20Sheng.html",
     
     "relUrl": "/categories/sects/fiveelements/Nangong%20Sheng.html"
-  },"13": {
+  },"25": {
+    "doc": "Qi Wangyou",
+    "title": "Qi Wangyou",
+    "content": "TBA . ",
+    "url": "/categories/sects/fiveelements/Qi%20Wangyou.html",
+    
+    "relUrl": "/categories/sects/fiveelements/Qi%20Wangyou.html"
+  },"26": {
+    "doc": "Tan Shuyan",
+    "title": "Tan Shuyan",
+    "content": "TBA . ",
+    "url": "/categories/sects/heptastar/Tan%20Shuyan.html",
+    
+    "relUrl": "/categories/sects/heptastar/Tan%20Shuyan.html"
+  },"27": {
     "doc": "Tu Kui",
     "title": "Tu Kui",
-    "content": "asdf . ",
+    "content": "TBA . ",
     "url": "/categories/sects/duanxuan/Tu%20Kui.html",
     
     "relUrl": "/categories/sects/duanxuan/Tu%20Kui.html"
+  },"28": {
+    "doc": "Wu Ce",
+    "title": "Wu Ce",
+    "content": "TBA . ",
+    "url": "/categories/sects/heptastar/Wu%20Ce.html",
+    
+    "relUrl": "/categories/sects/heptastar/Wu%20Ce.html"
+  },"29": {
+    "doc": "Wu Xingzhi",
+    "title": "Wu Xingzhi",
+    "content": "TBA . ",
+    "url": "/categories/sects/fiveelements/Wu%20Xingzhi.html",
+    
+    "relUrl": "/categories/sects/fiveelements/Wu%20Xingzhi.html"
+  },"30": {
+    "doc": "Xiao Bu",
+    "title": "Xiao Bu",
+    "content": "TBA . ",
+    "url": "/categories/sects/duanxuan/Xiao%20Bu.html",
+    
+    "relUrl": "/categories/sects/duanxuan/Xiao%20Bu.html"
+  },"31": {
+    "doc": "Yan Chen",
+    "title": "Yan Chen",
+    "content": "TBA . ",
+    "url": "/categories/sects/heptastar/Yan%20Chen.html",
+    
+    "relUrl": "/categories/sects/heptastar/Yan%20Chen.html"
+  },"32": {
+    "doc": "Yan Xue",
+    "title": "Yan Xue",
+    "content": "TBA . ",
+    "url": "/categories/sects/cloudspiritsword/Yan%20Xue.html",
+    
+    "relUrl": "/categories/sects/cloudspiritsword/Yan%20Xue.html"
+  },"33": {
+    "doc": "Yao Ling",
+    "title": "Yao Ling",
+    "content": "TBA . ",
+    "url": "/categories/sects/heptastar/Yao%20Ling.html",
+    
+    "relUrl": "/categories/sects/heptastar/Yao%20Ling.html"
+  },"34": {
+    "doc": "Ye Mingming",
+    "title": "Ye Mingming",
+    "content": "TBA . ",
+    "url": "/categories/sects/duanxuan/Ye%20Mingming.html",
+    
+    "relUrl": "/categories/sects/duanxuan/Ye%20Mingming.html"
   }
 }

@@ -21,7 +21,7 @@ These archetypes can be played together and are piloted in different ways depend
 
 - **Xiao Bu**
 
-- **Tu Kui**
+- [**Tu Kui**](/categories/sects/duanxuan/Tu%20Kui)
 
 - **Ye Mingming**
 

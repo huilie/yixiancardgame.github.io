@@ -9,32 +9,32 @@ nav_order: 2
 There are 23 characters available in the game.
 
 ### Cloud Spirit Sword Sect:
-- Mu Yifeng
-- Yan Xue
-- Li Chengyun
-- Long Yao
-- Lin Xiaoyue
-- Lu Jianxin
+- [Mu Yifeng](/categories/sects/cloudspiritsword/Mu%20Yifeng)
+- [Yan Xue](/categories/sects/cloudspiritsword/Yan%20Xue)
+- [Li Chengyun](/categories/sects/cloudspiritsword/Li%20Chengyun)
+- [Long Yao](/categories/sects/cloudspiritsword/Long%20Yao)
+- [Lin Xiaoyue](/categories/sects/cloudspiritsword/Lin%20Xiaoyue)
+- [Lu Jianxin](/categories/sects/cloudspiritsword/Lu%20Jianxin)
 
 ### Heptastar Pavilion:
-- Tan Shuyan
-- Yan Chen
-- Yao Ling
-- Jiang Ximing
-- Wu ce
-- Feng Xu
+- [Tan Shuyan](/categories/sects/heptastar/Tan%20Shuyan)
+- [Yan Chen](/categories/sects/heptastar/Yan%20Chen)
+- [Yao Ling](/categories/sects/heptastar/)
+- [Jiang Ximing](/categories/sects/heptastar/Jiang%20Ximing)
+- [Wu ce](/categories/sects/heptastar/Wu%20Ce)
+- [Feng Xu](/categories/sects/heptastar/Feng%20Xu)
 
 ### Five Elements Alliance:
-- Wu Xingzhi
-- Du Lingyuan
-- Hua Qinrui
-- Mu Hu
-- Nangong Sheng
-- Qi Wangyou
+- [Wu Xingzhi](/categories/sects/fiveelements/Wu%20Xingzhi)
+- [Du Lingyuan](/categories/sects/fiveelements/Du%20Lingyuan)
+- [Hua Qinrui](/categories/sects/fiveelements/Hua%20Qinrui)
+- [Mu Hu](/categories/sects/fiveelements/Mu%20Hu)
+- [Nangong Sheng](/categories/sects/fiveelements/Nangong%20Sheng)
+- [Qi Wangyou](/categories/sects/fiveelements/Qi%20Wangyou)
 
 ### Duan Xuan Sect:
-- Tu Kui
-- Ji Fangsheng
-- Xiao Bu
-- Ye Mingming
-- Li Man
+- [Tu Kui](/categories/sects/duanxuan/Tu%20Kui)
+- [Ji Fangsheng](/categories/sects/duanxuan/Ji%20Fangsheng)
+- [Xiao Bu](/categories/sects/duanxuan/Xiao%20Bu)
+- [Ye Mingming](/categories/sects/duanxuan/Ye%20Mingming)
+- [Li Man](/categories/sects/duanxuan/Li%20Man)

@@ -10,7 +10,7 @@ hasChild: True
     <tr>
         <td>Sect: Duan Xuan Sect</td>
         <td rowspan="5" style="vertical-align: top; text-align: center;">
-        <img src="/assets/JiFangsheng.png" width="150px" />
+        <img src="/assets/characters/jifangsheng/JiFangsheng.png" width="150px" />
         </td>
     </tr>
     <tr>
@@ -29,17 +29,26 @@ hasChild: True
 
 ---
 
-### Immortal Fates:
+## Immortal Fates:
+<img src="/assets/characters/jifangsheng/imm1.png" width="70px">\
+**Initial Immortal Fate**: *Add 1 **Physique** at the start of each battle. Add 1 **Physique Cap** when winning a battle (up to 4 times).*
 
-| INITIAL IMMORTAL FATE | FOUNDATIONAL PHASE  | VIRTUOSO PHASE  | IMMORTALITY PHASE  | INCARNATION PHASE            |
-| --------------------- | ------------------- | --------------- | ------------------ | ---------------------------- |
-| Zen Mind Forging Body | Mind-Body Resonance | Memory Fragment | Meditation of Xuan | Wan Xuan Demon Breaking Palm |
+<img src="/assets/characters/jifangsheng/imm2.png" width="70px">\
+<span style="color: #5cff64">**Mind Body Resonance**</span>: *Whenever you gain 1 **Physique** in battle, you gain 1 **DEF**.*
+
+<img src="/assets/characters/jifangsheng/imm3.png" width="70px">\
+<span style="color: #49a1ff">**Memory Fragment**</span>: *A level 1 card in your hand can be synthesized with a level 2 card to upgrade to level 3. This method of upgrade costs 5 **Physique**, and is invalid if you don't have enough **Physique**. (You must have both cards in your hand to upgrade by this method.)*
+
+<img src="/assets/characters/jifangsheng/imm4.png" width="70px">\
+<span style="color: #9b49e8">**Meditation of Xuan**</span>: *Gain 1 'Meditation of Xuan'.*
+
+<img src="/assets/characters/jifangsheng/imm5.png" width="70px">\
+<span style="color: orange">**Wan Xuan Demon Breaking Palm**</span>: *Gain 1 'Wan Xuan Demon Breaking Palm'.*
 
 ---
 
-Recommended Build: Self Debuff
+## Recommended Build: Self Debuff
 
-### Summary:
 Survive until reaching Immortality (purple) Phase with a physique build, keeping cards that remove/prevent debuffs and building physique.\
 Then choose the Immortal Fate: "Meditation of Xuan".
 
@@ -48,3 +57,11 @@ After this, you can begin to adjust your build by pairing "Meditation of Xuan", 
 Keep building physique, and then select the Immortal Fate "Wan Xuan Demon Breaking Palm" after reaching Incarnation Phase. 
 
 Afterwards, spam "Wan Xuan Demon Breaking Palm" as much as you can with agility cards as it not only removes internal injury but also gives attack up, by an amount dependant on physique. This gives both offensive and defensive scaling as your attack up and regeneration stacks grow over time.
+
+Strong Against: Defensive Decks\
+Weak Against: Sudden Damages (e.g. Dharma Spirit Sword)
+
+---
+
+## Portrait:
+![](/assets/characters/jifangsheng/portrait.png)
