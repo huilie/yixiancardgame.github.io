@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Basics",
     "title": "Basics",
-    "content": ". | Sects . | Cloud Spirit Sword Sect | Heptastar Pavillion | Five Elements Alliance | Duan Xuan Sect | . | Qi | . ",
+    "content": ". | Sects . | Cloud Spirit Sword Sect | Heptastar Pavilion | Five Elements Alliance | Yuan Buan Sect | . | Qi | . ",
     "url": "/categories/introduction/Basics.html",
     
     "relUrl": "/categories/introduction/Basics.html"
@@ -15,32 +15,39 @@
   },"2": {
     "doc": "Download",
     "title": "Download",
-    "content": "The game can be downloaded on Steam (Windows, Mac, Linux) using this link. Support for mobile devices aren’t released yet. Please keep an eye out in the official Steam Community. ",
+    "content": "The game can be downloaded on Steam (Windows, Mac, Linux) using this link. Support for mobile devices aren’t available yet. Please keep an eye out in the official Steam Community. ",
     "url": "/categories/introduction/Download.html",
     
     "relUrl": "/categories/introduction/Download.html"
   },"3": {
     "doc": "Duan Xuan Sect",
     "title": "Duan Xuan Sect",
-    "content": "4 . ",
+    "content": "Duan Xuan Sect splits into several unique archetypes. These include: . | Crash Fist | Force Gain | Physique | Self-Debuff | . These archetypes can be played together and are piloted in different ways depending on the character you are using. ",
     "url": "/categories/introduction/sects/DuanXuan.html",
     
     "relUrl": "/categories/introduction/sects/DuanXuan.html"
   },"4": {
+    "doc": "Duan Xuan Sect",
+    "title": "The Duan Xuan Sect consists of 5 characters.",
+    "content": ". | Xiao Bu . aaaa . | Tu Kui . aaaa . | Ye Mingming . aaaa . | Ji Fangsheng . Immortal Fates: . Recommended Build: Self Debuff . Summary: Survive until reaching Immortality Phase with a physique build, keeping cards that remove/prevent debuffs and building physique. Then choose the Immortal Fate: “Meditation of Xuan”. After this, you can begin to adjust your build by pairing “Meditation of Xuan”, with a few anti-debuffing cards to remove some internal injury while keeping regeneration. Keep building physique, and then select the Immortal Fate “Wan Xuan Demon Breaking Palm” after reaching Incarnation Phase. Afterwards, spam “Wan Xuan Demon Breaking Palm” as much as you can with agility cards as it not only removes internal injury but also gives attack up, by an amount dependant on physique. This gives both offensive and defensive scaling as your attack up and regeneration stacks grow over time. Early game -\\ . Mid game -\\ . Late game -\\ . | Li Man aaaa . | . ",
+    "url": "/categories/introduction/sects/DuanXuan.html#the-duan-xuan-sect-consists-of-5-characters",
+    
+    "relUrl": "/categories/introduction/sects/DuanXuan.html#the-duan-xuan-sect-consists-of-5-characters"
+  },"5": {
     "doc": "Five Elements Alliance",
     "title": "Five Elements Alliance",
     "content": "3 . ",
     "url": "/categories/introduction/sects/FiveElements.html",
     
     "relUrl": "/categories/introduction/sects/FiveElements.html"
-  },"5": {
+  },"6": {
     "doc": "Heptastar Pavillion",
     "title": "Heptastar Pavillion",
     "content": "2 . ",
     "url": "/categories/introduction/sects/Heptastar.html",
     
     "relUrl": "/categories/introduction/sects/Heptastar.html"
-  },"6": {
+  },"7": {
     "doc": "Introduction",
     "title": "Introduction",
     "content": " ",
