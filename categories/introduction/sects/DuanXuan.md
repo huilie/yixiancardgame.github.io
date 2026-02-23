@@ -5,6 +5,8 @@ hasChild: True
 nav_order: 4
 ---
 
+# Duan Xuan Sect
+
 Duan Xuan Sect splits into several unique archetypes. These include:
 - Crash Fist
 - Force Gain
@@ -15,25 +17,39 @@ These archetypes can be played together and are piloted in different ways depend
 
 ---
 
-The Duan Xuan Sect consists of 5 characters. 
+## The Duan Xuan Sect consists of 5 characters. 
 
-- Xiao Bu\
+- **Xiao Bu**
+  
   aaaa
   
-- Tu Kui\
+- **Tu Kui**
+  
   aaaa
   
-- Ye Mingming\
+- **Ye Mingming**
+  
   aaaa
   
-- Ji Fangsheng\
-  Recommended Build: Self Debuff\
-  Summary: Survive until reaching immortality phase with a physique build, and then begin\
-  Abilities:\
+- **Ji Fangsheng**
+  
+  Immortal Fates:
+  
+  Recommended Build: Self Debuff
+
+  Summary:\
+  Survive until reaching Immortality Phase with a physique build, keeping cards that remove/prevent debuffs and building physique.\
+  Then choose the Immortal Fate: "Meditation of Xuan". After this, you can begin to adjust your build by pairing "Meditation of Xuan"\
+  with a few anti-debuffing cards to remove some internal injury while keeping regeneration. Keep building physique, and then select the\
+  Immortal Fate "Wan Xuan Demon Breaking Palm" after reaching Incarnation Phase. Afterwards, spam "Wan Xuan Demon Breaking Palm" as much as you can with agility cards\
+  as it not only removes internal injury but also gives attack up, by an amount dependant on physique. This gives both offensive and defensive scaling\
+  as your attack up and regeneration stacks grow over time.
+
   Early game -\
-  Mid game -\
-  Late game -\
-  a
   
-- Li Man\
+  Mid game -\
+  
+  Late game -\
+  
+- **Li Man**\
   aaaa
