@@ -56,10 +56,10 @@ After this, you can begin to adjust your build by pairing "Meditation of Xuan", 
 
 Keep building physique, and then select the Immortal Fate "Wan Xuan Demon Breaking Palm" after reaching Incarnation Phase. 
 
-Afterwards, spam "Wan Xuan Demon Breaking Palm" as much as you can with agility cards as it not only removes internal injury but also gives attack up, by an amount dependant on physique. This gives both offensive and defensive scaling as your attack up and regeneration stacks grow over time.
+Afterwards, spam "Wan Xuan Demon Breaking Palm" as much as you can with agility cards as it not only removes debuffs (most notably internal injury from Meditation of Xuan), but also gives attack up. This allows you to scale both in terms of regeneration stacks and attack up stacks.
 
-Strong Against: Defensive Decks\
-Weak Against: Sudden Damages (e.g. Dharma Spirit Sword)
+Strong Against: Chip / Other Scaling Decks\
+Weak Against: Damage Bursts (e.g. Dharma Spirit Sword)
 
 ---
 
