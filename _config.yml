@@ -1,14 +1,19 @@
+# This file isn't intended for editing unless you know exactly what you're doing.
+
+#############################################################################################
+
 remote_theme: just-the-docs/just-the-docs
 
 title: "Yi Xian Wiki"
 description: ""
 
 url: https://YiXianCardGame.github.io
-baseurl: ""
+baseurl: "" # what?
 
-# NOTE: search and anchors were true orignally
-search_enabled: true
-heading_anchors: true
+search_enabled: true # adds search bar at the top of the page
+heading_anchors: true # the thing where you can hover over the heading and lets you copy the link
+
+# light = death
 color_scheme: dark
 
 # NOTE: Add favicon later
@@ -30,3 +35,5 @@ callouts:
   HELLO:
     title: Hello Message
     color: green
+
+#############################################################################################

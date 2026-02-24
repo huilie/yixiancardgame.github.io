@@ -13,5 +13,5 @@ Feel free to add contents *yourself* by submitting a pull request to [this repos
 
 All content in this Wiki are available under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) unless otherwise noted.
 
-Wiki Maintained by: [wndx2](https://github.com/wndx2), [Bacon](https://github.com/caibirana2-eng)\
+Wiki Maintained by: [wndx2](https://github.com/wndx2), [Bacon](https://github.com/caibirana2-eng), [huile](https://github.com/huilie)\
 Last Edited: `24 February 2026`
