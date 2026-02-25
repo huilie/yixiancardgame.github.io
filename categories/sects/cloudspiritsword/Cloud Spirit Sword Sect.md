@@ -1,5 +1,5 @@
 ---
-title: Cloud Spirit Sword Sect
+title: Cloud Spirit Sword Sect Characters
 parent: Characters
 hasChild: True
 nav_order: 1

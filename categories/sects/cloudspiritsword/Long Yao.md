@@ -1,6 +1,6 @@
 ---
 title: Long Yao
-parent: Cloud Spirit Sword Sect
+parent: Cloud Spirit Sword Sect Characters
 hasChild: True
 ---
 
