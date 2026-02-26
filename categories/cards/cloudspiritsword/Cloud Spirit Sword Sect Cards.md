@@ -47,3 +47,24 @@ hasChild: true
         </tr>
     </tbody>
 </table>
+
+<span style="color: #49a1ff"> Phase:</span>
+<table>
+    <tbody>
+        <tr>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/cloudsword-reguard.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/cloudsword-riddle.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/cloudsword-conceal.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/transformingspiritsrhythm.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/spiritagesword.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/giantwhalespiritsword.jpg"></td>
+        </tr>
+        <tr>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/contemplatespiritsrhythm.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/consonanceswordformation.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/earthevilsword.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/form-intentionsword.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/madsword-one.jpg"></td>
+        </tr>
+    </tbody>
+</table>
