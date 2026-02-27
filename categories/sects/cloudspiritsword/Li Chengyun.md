@@ -1,6 +1,6 @@
 ---
 title: Li Chengyun
-parent: Cloud Spirit Sword Sect
+parent: Cloud Spirit Sword Sect Characters
 hasChild: True
 ---
 
