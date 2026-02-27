@@ -4,11 +4,13 @@ hasChild: True
 nav_order: 2
 ---
 
-# Characters
+# Characters ｜ 角色
 
 There are 23 characters available in the game.
+<br>
+可用角色共23名
 
-### Cloud Spirit Sword Sect:
+### Cloud Spirit Sword Sect ｜ 灵云剑宗:
 - [Mu Yifeng](/categories/sects/cloudspiritsword/Mu%20Yifeng)
 - [Yan Xue](/categories/sects/cloudspiritsword/Yan%20Xue)
 - [Li Chengyun](/categories/sects/cloudspiritsword/Li%20Chengyun)
@@ -16,7 +18,7 @@ There are 23 characters available in the game.
 - [Lin Xiaoyue](/categories/sects/cloudspiritsword/Lin%20Xiaoyue)
 - [Lu Jianxin](/categories/sects/cloudspiritsword/Lu%20Jianxin)
 
-### Heptastar Pavilion:
+### Heptastar Pavilion ｜ 七星阁:
 - [Tan Shuyan](/categories/sects/heptastar/Tan%20Shuyan)
 - [Yan Chen](/categories/sects/heptastar/Yan%20Chen)
 - [Yao Ling](/categories/sects/heptastar/)
@@ -24,7 +26,7 @@ There are 23 characters available in the game.
 - [Wu ce](/categories/sects/heptastar/Wu%20Ce)
 - [Feng Xu](/categories/sects/heptastar/Feng%20Xu)
 
-### Five Elements Alliance:
+### Five Elements Alliance ｜ TAB:
 - [Wu Xingzhi](/categories/sects/fiveelements/Wu%20Xingzhi)
 - [Du Lingyuan](/categories/sects/fiveelements/Du%20Lingyuan)
 - [Hua Qinrui](/categories/sects/fiveelements/Hua%20Qinrui)
@@ -32,7 +34,7 @@ There are 23 characters available in the game.
 - [Nangong Sheng](/categories/sects/fiveelements/Nangong%20Sheng)
 - [Qi Wangyou](/categories/sects/fiveelements/Qi%20Wangyou)
 
-### Duan Xuan Sect:
+### Duan Xuan Sect ｜ TAB:
 - [Tu Kui](/categories/sects/duanxuan/Tu%20Kui)
 - [Ji Fangsheng](/categories/sects/duanxuan/Ji%20Fangsheng)
 - [Xiao Bu](/categories/sects/duanxuan/Xiao%20Bu)
