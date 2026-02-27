@@ -1,2 +1,3 @@
 - Add Ji Fangsheng's Immortal Fate Card Descriptions (for purple and orange phase)
-- raname cards in CloudSpiritSword
+- rename cards in CloudSpiritSword
+- Chinese translation added - some part
