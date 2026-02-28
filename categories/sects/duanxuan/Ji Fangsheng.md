@@ -4,32 +4,42 @@ parent: Duan Xuan Sect
 hasChild: True
 ---
 
-# Ji Fangsheng
+# Ji Fangsheng ｜ 姬方生
 
 <table>
     <tr>
-        <td>Sect: Duan Xuan Sect</td>
+        <td>Sect: Duan Xuan Sect
+        <br>宗门：forgot how to spell
+        </td>
         <td rowspan="5" style="vertical-align: top; text-align: center;">
         <img src="/assets/characters/jifangsheng/JiFangsheng.png" width="150px" />
         </td>
     </tr>
     <tr>
-        <td>Birthdate: August 23rd, YiXian 30 at Hai Hour</td>
+        <td>Birthdate: August 23rd, YiXian 30 at Hai Hour
+        <br>生日：八月二十三日，wtf is YiXian30 at Hai Hour
+        </td>
     </tr>
     <tr>
-        <td>Skill: Cultivation of Soul and Body</td>
+        <td>Skill: Cultivation of Soul and Body
+        <br>能力：锤炼体魄
+        </td>
     </tr>
     <tr>
-        <td>Principle: Xuan</td>
+        <td>Principle: Xuan
+        <br>wtf is that 
+        </td>
     </tr>
     <tr>
-        <td>Preference: Helping Others</td>
+        <td>Preference: Helping Others
+        <br>TAB
+        </td>
     </tr>
 </table>
 
 ---
 
-## Immortal Fates:
+## Immortal Fates ｜ 仙命:
 <img src="/assets/characters/jifangsheng/imm1.png" width="70px">\
 **Initial Immortal Fate**: *Add 1 **Physique** at the start of each battle. Add 1 **Physique Cap** when winning a battle (up to 4 times).*
 

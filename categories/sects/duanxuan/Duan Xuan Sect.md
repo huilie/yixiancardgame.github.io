@@ -5,7 +5,7 @@ hasChild: True
 nav_order: 4
 ---
 
-# Duan Xuan Sect
+# Duan Xuan Sect ｜ 锻forgot how to spell
 
 Duan Xuan Sect splits into several unique archetypes. These include:
 - Crash Fist
@@ -17,9 +17,9 @@ These archetypes can be played together and are piloted in different ways depend
 
 ---
 
-## The Duan Xuan Sect consists of 5 characters. 
+## The Duan Xuan Sect consists of 5 characters ｜. 
 
-- **Xiao Bu**
+- **Xiao Bu | 小布**
 
 - [**Tu Kui**](/categories/sects/duanxuan/Tu%20Kui)
 
