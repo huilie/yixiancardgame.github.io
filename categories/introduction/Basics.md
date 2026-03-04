@@ -6,15 +6,15 @@ nav_order: 2
 
 # Basics
 {: .warning}
-**ATK**\
+**ATK ｜ 伤害**\
 ATK deals damage to opponents. If it says 3 ATK, then it will deal 3 damage. If it says 1~5 ATK, then it deals a random amount of damage between 1~5. 
 
 {: .warning}
-**DEF**\
+**DEF ｜ 防御**\
 DEF ignores your opponent's attack. If you gain 5 DEF, you will be able to ignore 5 ATK from your opponent. DEF decreases every turn.
 
 {: .important}
-**Qi**\
+**Qi ｜ 灵气**\
 Qi is often the 'energy' required to play the card. On the top left corner of the card, if it says a number on a blue flower-looking shape, that's the 'Qi required to play'. If it says 2 on the top left corner, you need at least 2 Qi in order to play the card. Qi can be obtained through other cards. In the card description, it will say something like "+2 Qi".
 
 {: .new}
