@@ -48,7 +48,49 @@ hasChild: true
     </tbody>
 </table>
 
-<span style="color: #49a1ff"> Phase:</span>
+<span style="color: #49a1ff">Virtuoso Phase:</span>
+<table>
+    <tbody>
+        <tr>
+            <td><img src="/assets/cards/CloudSpiritSword/3-blue/burstsword.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/3-blue/clouddancerhtthm.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/3-blue/cloudsword-necessity.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/3-blue/cloudsword-piercethestar.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/3-blue/cloudsword-softheart.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/3-blue/cloudsword-spiritcoercion.jpg"></td>
+        </tr>
+        <tr>
+            <td><img src="/assets/cards/CloudSpiritSword/3-blue/giantrocspiritsword.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/3-blue/mirrorflowerswordformation.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/3-blue/ravenspiritsword.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/3-blue/reflexivesword.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/3-blue/tri-peaksword.jpg"></td>
+        </tr>
+    </tbody>
+</table>
+
+<span style="color: #9b49e8">Immortality Phase:</span>
+<table>
+    <tbody>
+        <tr>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/cloudsword-reguard.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/cloudsword-riddle.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/cloudsword-conceal.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/transformingspiritsrhythm.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/spiritagesword.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/giantwhalespiritsword.jpg"></td>
+        </tr>
+        <tr>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/contemplatespiritsrhythm.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/consonanceswordformation.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/earthevilsword.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/form-intentionsword.jpg"></td>
+            <td><img src="/assets/cards/CloudSpiritSword/2-green/madsword-one.jpg"></td>
+        </tr>
+    </tbody>
+</table>
+
+<span style="color: orange">Incarnation Phase:</span>
 <table>
     <tbody>
         <tr>

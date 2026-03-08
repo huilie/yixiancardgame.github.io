@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Basics",
     "title": "Basics",
-    "content": "ATK ATK deals damage to opponents. If it says 3 ATK, then it will deal 3 damage. If it says 1~5 ATK, then it deals a random amount of damage between 1~5. DEF DEF ignores your opponent’s attack. If you gain 5 DEF, you will be able to ignore 5 ATK from your opponent. DEF decreases every turn. Qi Qi is often the ‘energy’ required to play the card. On the top left corner of the card, if it says a number on a blue flower-looking shape, that’s the ‘Qi required to play’. If it says 2 on the top left corner, you need at least 2 Qi in order to play the card. Qi can be obtained through other cards. In the card description, it will say something like “+2 Qi”. Chase Chase is a special action in the game where you skip your opponents turn, letting you act twice in a single turn. You cannot Chase a Chase card. Continuous ‘Continuous’ is a special condition given to a card. In the description, it should say ‘Continuous’ in pink. This means that the card’s effect will be triggered every turn. “Continuous X times”, means that the card’s effect will only be triggered for X times per battle. Consumption ‘Consumption’ is also a special condition given to a card. Same with ‘Continuous’, it will be in pink. This means that you can only play this card once per battle. NOTE: These are the basic terms that you should know (in general) before playing the game. These terms apply to every sect. There are other basic terms that is useful to know when playing different sects. Descriptions of sect-limited terms are in the sect’s page in this Wiki. ",
+    "content": "ATK ｜ 伤害 ATK deals damage to opponents. If it says 3 ATK, then it will deal 3 damage. If it says 1~5 ATK, then it deals a random amount of damage between 1~5. DEF ｜ 防御 DEF ignores your opponent’s attack. If you gain 5 DEF, you will be able to ignore 5 ATK from your opponent. DEF decreases every turn. Qi ｜ 灵气 Qi is often the ‘energy’ required to play the card. On the top left corner of the card, if it says a number on a blue flower-looking shape, that’s the ‘Qi required to play’. If it says 2 on the top left corner, you need at least 2 Qi in order to play the card. Qi can be obtained through other cards. In the card description, it will say something like “+2 Qi”. Chase Chase is a special action in the game where you skip your opponents turn, letting you act twice in a single turn. You cannot Chase a Chase card. Continuous ‘Continuous’ is a special condition given to a card. In the description, it should say ‘Continuous’ in pink. This means that the card’s effect will be triggered every turn. “Continuous X times”, means that the card’s effect will only be triggered for X times per battle. Consumption ‘Consumption’ is also a special condition given to a card. Same with ‘Continuous’, it will be in pink. This means that you can only play this card once per battle. NOTE: These are the basic terms that you should know (in general) before playing the game. These terms apply to every sect. There are other basic terms that is useful to know when playing different sects. Descriptions of sect-limited terms are in the sect’s page in this Wiki. ",
     "url": "/categories/introduction/Basics.html",
     
     "relUrl": "/categories/introduction/Basics.html"
@@ -14,250 +14,285 @@
     "relUrl": "/categories/cards/Cards.html"
   },"2": {
     "doc": "Characters",
+    "title": "Characters ｜ 角色",
+    "content": "There are 23 characters available in the game. 可用角色共23名 . Cloud Spirit Sword Sect ｜ 灵云剑宗: . | Mu Yifeng | Yan Xue | Li Chengyun | Long Yao | Lin Xiaoyue | Lu Jianxin | . Heptastar Pavilion ｜ 七星阁: . | Tan Shuyan | Yan Chen | Yao Ling | Jiang Ximing | Wu ce | Feng Xu | . Five Elements Alliance ｜ TAB: . | Wu Xingzhi | Du Lingyuan | Hua Qinrui | Mu Hu | Nangong Sheng | Qi Wangyou | . Duan Xuan Sect ｜ TAB: . | Tu Kui | Ji Fangsheng | Xiao Bu | Ye Mingming | Li Man | . ",
+    "url": "/categories/Characters.html#characters--%E8%A7%92%E8%89%B2",
+    
+    "relUrl": "/categories/Characters.html#characters--角色"
+  },"3": {
+    "doc": "Characters",
     "title": "Characters",
-    "content": "There are 23 characters available in the game. Cloud Spirit Sword Sect: . | Mu Yifeng | Yan Xue | Li Chengyun | Long Yao | Lin Xiaoyue | Lu Jianxin | . Heptastar Pavilion: . | Tan Shuyan | Yan Chen | Yao Ling | Jiang Ximing | Wu ce | Feng Xu | . Five Elements Alliance: . | Wu Xingzhi | Du Lingyuan | Hua Qinrui | Mu Hu | Nangong Sheng | Qi Wangyou | . Duan Xuan Sect: . | Tu Kui | Ji Fangsheng | Xiao Bu | Ye Mingming | Li Man | . ",
+    "content": " ",
     "url": "/categories/Characters.html",
     
     "relUrl": "/categories/Characters.html"
-  },"3": {
+  },"4": {
     "doc": "Cloud Spirit Sword Sect Cards",
     "title": "Cards in the Cloud Spirit Sword Sect",
-    "content": "Initial Immortal Fate: . | | | | | | . | | | | | . Foundation Phase: . | | | | | | . | | | | | . ",
+    "content": "Initial Immortal Fate: . | | | | | | . | | | | | . Foundation Phase: . | | | | | | . | | | | | . Virtuoso Phase: . | | | | | | . | | | | | . Immortality Phase: . | | | | | | . | | | | | . Incarnation Phase: . | | | | | | . | | | | | . ",
     "url": "/categories/cards/cloudspiritsword/Cloud%20Spirit%20Sword%20Sect%20Cards.html#cards-in-the-cloud-spirit-sword-sect",
     
     "relUrl": "/categories/cards/cloudspiritsword/Cloud%20Spirit%20Sword%20Sect%20Cards.html#cards-in-the-cloud-spirit-sword-sect"
-  },"4": {
+  },"5": {
     "doc": "Cloud Spirit Sword Sect Cards",
     "title": "Cloud Spirit Sword Sect Cards",
     "content": " ",
     "url": "/categories/cards/cloudspiritsword/Cloud%20Spirit%20Sword%20Sect%20Cards.html",
     
     "relUrl": "/categories/cards/cloudspiritsword/Cloud%20Spirit%20Sword%20Sect%20Cards.html"
-  },"5": {
+  },"6": {
     "doc": "Cloud Spirit Sword Sect Characters",
     "title": "Cloud Spirit Sword Sect Characters",
     "content": "1 . ",
     "url": "/categories/sects/cloudspiritsword/Cloud%20Spirit%20Sword%20Sect.html",
     
     "relUrl": "/categories/sects/cloudspiritsword/Cloud%20Spirit%20Sword%20Sect.html"
-  },"6": {
+  },"7": {
+    "doc": "Download",
+    "title": "Download ｜ 版本下载",
+    "content": "The game can be downloaded on Steam (Windows, Mac, Linux) using this link. 此游戏当于Steam中下载，内涵版本 Windows, Mac, Linux . Support for mobile devices aren’t available yet. Please keep an eye out in the official Steam Community. 移动端版本 目前并没完成开发，请注意Steam官方社区网站 . ",
+    "url": "/categories/introduction/Download.html#download--%E7%89%88%E6%9C%AC%E4%B8%8B%E8%BD%BD",
+    
+    "relUrl": "/categories/introduction/Download.html#download--版本下载"
+  },"8": {
     "doc": "Download",
     "title": "Download",
-    "content": "The game can be downloaded on Steam (Windows, Mac, Linux) using this link. Support for mobile devices aren’t available yet. Please keep an eye out in the official Steam Community. ",
+    "content": " ",
     "url": "/categories/introduction/Download.html",
     
     "relUrl": "/categories/introduction/Download.html"
-  },"7": {
+  },"9": {
     "doc": "Du Lingyuan",
     "title": "Du Lingyuan",
     "content": "TBA . ",
     "url": "/categories/sects/fiveelements/Du%20Lingyuan.html",
     
     "relUrl": "/categories/sects/fiveelements/Du%20Lingyuan.html"
-  },"8": {
+  },"10": {
+    "doc": "Duan Xuan Sect",
+    "title": "Duan Xuan Sect ｜ 锻forgot how to spell",
+    "content": "Duan Xuan Sect splits into several unique archetypes. These include: . | Crash Fist | Force Gain | Physique | Self-Debuff | . These archetypes can be played together and are piloted in different ways depending on the character you are using. ",
+    "url": "/categories/sects/duanxuan/Duan%20Xuan%20Sect.html#duan-xuan-sect--%E9%94%BBforgot-how-to-spell",
+    
+    "relUrl": "/categories/sects/duanxuan/Duan%20Xuan%20Sect.html#duan-xuan-sect--锻forgot-how-to-spell"
+  },"11": {
+    "doc": "Duan Xuan Sect",
+    "title": "The Duan Xuan Sect consists of 5 characters ｜.",
+    "content": ". | **Xiao Bu | 小布** | . | Tu Kui . | Ye Mingming . | Ji Fangsheng . | Li Man | . ",
+    "url": "/categories/sects/duanxuan/Duan%20Xuan%20Sect.html#the-duan-xuan-sect-consists-of-5-characters-",
+    
+    "relUrl": "/categories/sects/duanxuan/Duan%20Xuan%20Sect.html#the-duan-xuan-sect-consists-of-5-characters-"
+  },"12": {
     "doc": "Duan Xuan Sect",
     "title": "Duan Xuan Sect",
-    "content": "Duan Xuan Sect splits into several unique archetypes. These include: . | Crash Fist | Force Gain | Physique | Self-Debuff | . These archetypes can be played together and are piloted in different ways depending on the character you are using. ",
+    "content": " ",
     "url": "/categories/sects/duanxuan/Duan%20Xuan%20Sect.html",
     
     "relUrl": "/categories/sects/duanxuan/Duan%20Xuan%20Sect.html"
-  },"9": {
-    "doc": "Duan Xuan Sect",
-    "title": "The Duan Xuan Sect consists of 5 characters.",
-    "content": ". | Xiao Bu . | Tu Kui . | Ye Mingming . | Ji Fangsheng . | Li Man . | . ",
-    "url": "/categories/sects/duanxuan/Duan%20Xuan%20Sect.html#the-duan-xuan-sect-consists-of-5-characters",
-    
-    "relUrl": "/categories/sects/duanxuan/Duan%20Xuan%20Sect.html#the-duan-xuan-sect-consists-of-5-characters"
-  },"10": {
+  },"13": {
     "doc": "Feng Xu",
     "title": "Feng Xu",
     "content": "TBA . ",
     "url": "/categories/sects/heptastar/Feng%20Xu.html",
     
     "relUrl": "/categories/sects/heptastar/Feng%20Xu.html"
-  },"11": {
+  },"14": {
     "doc": "Five Elements Alliance",
     "title": "Five Elements Alliance",
     "content": "3 . ",
     "url": "/categories/sects/fiveelements/Five%20Elements%20Alliance.html",
     
     "relUrl": "/categories/sects/fiveelements/Five%20Elements%20Alliance.html"
-  },"12": {
+  },"15": {
     "doc": "Heptastar Pavilion",
     "title": "Heptastar Pavilion",
     "content": "2 . ",
     "url": "/categories/sects/heptastar/Heptastar%20Pavilion.html",
     
     "relUrl": "/categories/sects/heptastar/Heptastar%20Pavilion.html"
-  },"13": {
+  },"16": {
     "doc": "Hua Qinrui",
     "title": "Hua Qinrui",
     "content": "TBA . ",
     "url": "/categories/sects/fiveelements/Hua%20Qinrui.html",
     
     "relUrl": "/categories/sects/fiveelements/Hua%20Qinrui.html"
-  },"14": {
+  },"17": {
     "doc": "Introduction",
     "title": "Introduction",
     "content": " ",
     "url": "/categories/introduction/Introduction.html",
     
     "relUrl": "/categories/introduction/Introduction.html"
-  },"15": {
+  },"18": {
     "doc": "Ji Fangsheng",
-    "title": "Ji Fangsheng",
-    "content": "| Sect: Duan Xuan Sect | | . | Birthdate: August 23rd, YiXian 30 at Hai Hour | . | Skill: Cultivation of Soul and Body | . | Principle: Xuan | . | Preference: Helping Others | . ",
-    "url": "/categories/sects/duanxuan/Ji%20Fangsheng.html",
+    "title": "Ji Fangsheng ｜ 姬方生",
+    "content": "| Sect: Duan Xuan Sect 门派：锻玄宗 | | . | Birthdate: August 23rd, YiXian 30 at Hai Hour 生辰：弈仙三十年八月二十三亥时 | . | Skill: Cultivation of Soul and Body 术：性命双修 | . | Principle: Xuan 道：玄 | . | Preference: Helping Others 喜好：助人 | . ",
+    "url": "/categories/sects/duanxuan/Ji%20Fangsheng.html#ji-fangsheng--%E5%A7%AC%E6%96%B9%E7%94%9F",
     
-    "relUrl": "/categories/sects/duanxuan/Ji%20Fangsheng.html"
-  },"16": {
+    "relUrl": "/categories/sects/duanxuan/Ji%20Fangsheng.html#ji-fangsheng--姬方生"
+  },"19": {
     "doc": "Ji Fangsheng",
-    "title": "Immortal Fates:",
-    "content": "Initial Immortal Fate: Add 1 Physique at the start of each battle. Add 1 Physique Cap when winning a battle (up to 4 times). Mind Body Resonance: Whenever you gain 1 Physique in battle, you gain 1 DEF. Memory Fragment: A level 1 card in your hand can be synthesized with a level 2 card to upgrade to level 3. This method of upgrade costs 5 Physique, and is invalid if you don’t have enough Physique. (You must have both cards in your hand to upgrade by this method.) . Meditation of Xuan: Gain 1 ‘Meditation of Xuan’. Wan Xuan Demon Breaking Palm: Gain 1 ‘Wan Xuan Demon Breaking Palm’. ",
-    "url": "/categories/sects/duanxuan/Ji%20Fangsheng.html#immortal-fates",
+    "title": "Immortal Fates ｜ 仙命:",
+    "content": "Initial Immortal Fate: Add 1 Physique at the start of each battle. Add 1 Physique Cap when winning a battle (up to 4 times). 心体共鸣： 每场战斗开始时加1 「体魄」 战斗胜利时额外加1体魄上限（最多加4次） . Mind Body Resonance: Whenever you gain 1 Physique in battle, you gain 1 DEF. 禅心锻身： 战斗中每加1 「体魄」 加1 「防」 . Memory Fragment: A level 1 card in your hand can be synthesized with a level 2 card to upgrade to level 3. This method of upgrade costs 5 Physique, and is invalid if you don’t have enough Physique. (You must have both cards in your hand to upgrade by this method.) 记忆碎片： 手牌中的1级牌可以和2级牌合成为3级牌，此法合成消耗5 「体魄」 ，体魄 不足则无效（2张牌均在手牌中才能以此法合成） . Meditation of Xuan: Gain 1 ‘Meditation of Xuan’. *冥心入玄：获得一张『冥心入玄』* . Wan Xuan Demon Breaking Palm: Gain 1 ‘Wan Xuan Demon Breaking Palm’. 万玄破魔掌： 获得一张『万玄破魔掌』 . ",
+    "url": "/categories/sects/duanxuan/Ji%20Fangsheng.html#immortal-fates--%E4%BB%99%E5%91%BD",
     
-    "relUrl": "/categories/sects/duanxuan/Ji%20Fangsheng.html#immortal-fates"
-  },"17": {
+    "relUrl": "/categories/sects/duanxuan/Ji%20Fangsheng.html#immortal-fates--仙命"
+  },"20": {
     "doc": "Ji Fangsheng",
     "title": "Recommended Build: Self Debuff + Physique",
     "content": "Survive until reaching Immortality (purple) Phase with a physique build, keeping (but not yet using) cards that remove/prevent debuffs and building physique. Then choose the Immortal Fate: “Meditation of Xuan”. After this, you can begin to adjust your build by pairing “Meditation of Xuan”, with a few anti-debuffing cards to remove some internal injury while keeping regeneration. Keep building physique, and then select the Immortal Fate “Wan Xuan Demon Breaking Palm” after reaching Incarnation Phase. Afterwards, spam “Wan Xuan Demon Breaking Palm” as much as you can with agility cards as it not only removes debuffs (most notably internal injury from Meditation of Xuan), but also gives attack up. This allows you to scale both in terms of regeneration stacks and attack up stacks. Strong Against: Chip / Other Scaling Decks Weak Against: Damage Bursts (e.g. Dharma Spirit Sword) . ",
     "url": "/categories/sects/duanxuan/Ji%20Fangsheng.html#recommended-build-self-debuff--physique",
     
     "relUrl": "/categories/sects/duanxuan/Ji%20Fangsheng.html#recommended-build-self-debuff--physique"
-  },"18": {
+  },"21": {
     "doc": "Ji Fangsheng",
-    "title": "Portrait:",
+    "title": "Portrait ｜ 立绘:",
     "content": ". ",
-    "url": "/categories/sects/duanxuan/Ji%20Fangsheng.html#portrait",
+    "url": "/categories/sects/duanxuan/Ji%20Fangsheng.html#portrait--%E7%AB%8B%E7%BB%98",
     
-    "relUrl": "/categories/sects/duanxuan/Ji%20Fangsheng.html#portrait"
-  },"19": {
+    "relUrl": "/categories/sects/duanxuan/Ji%20Fangsheng.html#portrait--立绘"
+  },"22": {
+    "doc": "Ji Fangsheng",
+    "title": "Skin portrait ｜ 衣着立绘:",
+    "content": ". ",
+    "url": "/categories/sects/duanxuan/Ji%20Fangsheng.html#skin-portrait--%E8%A1%A3%E7%9D%80%E7%AB%8B%E7%BB%98",
+    
+    "relUrl": "/categories/sects/duanxuan/Ji%20Fangsheng.html#skin-portrait--衣着立绘"
+  },"23": {
+    "doc": "Ji Fangsheng",
+    "title": "Ji Fangsheng",
+    "content": " ",
+    "url": "/categories/sects/duanxuan/Ji%20Fangsheng.html",
+    
+    "relUrl": "/categories/sects/duanxuan/Ji%20Fangsheng.html"
+  },"24": {
     "doc": "Jiang Ximing",
     "title": "Jiang Ximing",
     "content": "TBA . ",
     "url": "/categories/sects/heptastar/Jiang%20Ximing.html",
     
     "relUrl": "/categories/sects/heptastar/Jiang%20Ximing.html"
-  },"20": {
+  },"25": {
     "doc": "Li Chengyun",
     "title": "Li Chengyun",
     "content": "TBA . ",
     "url": "/categories/sects/cloudspiritsword/Li%20Chengyun.html",
     
     "relUrl": "/categories/sects/cloudspiritsword/Li%20Chengyun.html"
-  },"21": {
+  },"26": {
     "doc": "Li Man",
     "title": "Li Man",
     "content": "TBA . ",
     "url": "/categories/sects/duanxuan/Li%20Man.html",
     
     "relUrl": "/categories/sects/duanxuan/Li%20Man.html"
-  },"22": {
+  },"27": {
     "doc": "Lin Xiaoyue",
     "title": "Lin Xiaoyue",
     "content": "TBA . ",
     "url": "/categories/sects/cloudspiritsword/Lin%20Xiaoyue.html",
     
     "relUrl": "/categories/sects/cloudspiritsword/Lin%20Xiaoyue.html"
-  },"23": {
+  },"28": {
     "doc": "Long Yao",
     "title": "Long Yao",
     "content": "TBA . ",
     "url": "/categories/sects/cloudspiritsword/Long%20Yao.html",
     
     "relUrl": "/categories/sects/cloudspiritsword/Long%20Yao.html"
-  },"24": {
+  },"29": {
     "doc": "Lu Jianxin",
     "title": "Lu Jianxin",
     "content": "TBA . ",
     "url": "/categories/sects/cloudspiritsword/Lu%20Jianxin.html",
     
     "relUrl": "/categories/sects/cloudspiritsword/Lu%20Jianxin.html"
-  },"25": {
+  },"30": {
     "doc": "Mu Hu",
     "title": "Mu Hu",
     "content": "TBA . ",
     "url": "/categories/sects/fiveelements/Mu%20Hu.html",
     
     "relUrl": "/categories/sects/fiveelements/Mu%20Hu.html"
-  },"26": {
+  },"31": {
     "doc": "Mu Yifeng",
     "title": "Mu Yifeng",
     "content": "TBA . ",
     "url": "/categories/sects/cloudspiritsword/Mu%20Yifeng.html",
     
     "relUrl": "/categories/sects/cloudspiritsword/Mu%20Yifeng.html"
-  },"27": {
+  },"32": {
     "doc": "Nangong Sheng",
     "title": "Nangong Sheng",
     "content": "TBA . ",
     "url": "/categories/sects/fiveelements/Nangong%20Sheng.html",
     
     "relUrl": "/categories/sects/fiveelements/Nangong%20Sheng.html"
-  },"28": {
+  },"33": {
     "doc": "Qi Wangyou",
     "title": "Qi Wangyou",
     "content": "TBA . ",
     "url": "/categories/sects/fiveelements/Qi%20Wangyou.html",
     
     "relUrl": "/categories/sects/fiveelements/Qi%20Wangyou.html"
-  },"29": {
+  },"34": {
     "doc": "Tan Shuyan",
     "title": "Tan Shuyan",
     "content": "TBA . ",
     "url": "/categories/sects/heptastar/Tan%20Shuyan.html",
     
     "relUrl": "/categories/sects/heptastar/Tan%20Shuyan.html"
-  },"30": {
+  },"35": {
     "doc": "Tu Kui",
     "title": "Tu Kui",
     "content": "TBA . ",
     "url": "/categories/sects/duanxuan/Tu%20Kui.html",
     
     "relUrl": "/categories/sects/duanxuan/Tu%20Kui.html"
-  },"31": {
+  },"36": {
     "doc": "Wu Ce",
     "title": "Wu Ce",
     "content": "TBA . ",
     "url": "/categories/sects/heptastar/Wu%20Ce.html",
     
     "relUrl": "/categories/sects/heptastar/Wu%20Ce.html"
-  },"32": {
+  },"37": {
     "doc": "Wu Xingzhi",
     "title": "Wu Xingzhi",
     "content": "TBA . ",
     "url": "/categories/sects/fiveelements/Wu%20Xingzhi.html",
     
     "relUrl": "/categories/sects/fiveelements/Wu%20Xingzhi.html"
-  },"33": {
+  },"38": {
     "doc": "Xiao Bu",
     "title": "Xiao Bu",
     "content": "TBA . ",
     "url": "/categories/sects/duanxuan/Xiao%20Bu.html",
     
     "relUrl": "/categories/sects/duanxuan/Xiao%20Bu.html"
-  },"34": {
+  },"39": {
     "doc": "Yan Chen",
     "title": "Yan Chen",
     "content": "TBA . ",
     "url": "/categories/sects/heptastar/Yan%20Chen.html",
     
     "relUrl": "/categories/sects/heptastar/Yan%20Chen.html"
-  },"35": {
+  },"40": {
     "doc": "Yan Xue",
     "title": "Yan Xue",
     "content": "TBA . ",
     "url": "/categories/sects/cloudspiritsword/Yan%20Xue.html",
     
     "relUrl": "/categories/sects/cloudspiritsword/Yan%20Xue.html"
-  },"36": {
+  },"41": {
     "doc": "Yao Ling",
     "title": "Yao Ling",
     "content": "TBA . ",
     "url": "/categories/sects/heptastar/Yao%20Ling.html",
     
     "relUrl": "/categories/sects/heptastar/Yao%20Ling.html"
-  },"37": {
+  },"42": {
     "doc": "Ye Mingming",
     "title": "Ye Mingming",
     "content": "TBA . ",
